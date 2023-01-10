@@ -1,0 +1,3 @@
+C:/Users/DarkenedAsian/Desktop/Project8_starter_files/cmake-build-debug/CMakeFiles/Project8_starter_files.dir
+C:/Users/DarkenedAsian/Desktop/Project8_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DarkenedAsian/Desktop/Project8_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
